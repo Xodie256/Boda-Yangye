@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "793659504244",
+    "project_id": "bodayangye",
+    "storage_bucket": "bodayangye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793659504244:android:1f66a09d585f3d11010321",
+        "android_client_info": {
+          "package_name": "com.mycompany.bodayangye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793659504244-kjgf0b1ha57k7od47lenenp33jn8oka9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bodayangye",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "793659504244-i587326b6k7mhqcjctaat8k0q3ajs81u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4S5LueFcXaUrquNo2KXW_p3Ki7d_pimw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793659504244-7kvsaqffqroipfdgg9eiqsmie4cajudk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793659504244-l9jfv26pms6v06vbsjsvosfufr55ie5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bodayangye"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
